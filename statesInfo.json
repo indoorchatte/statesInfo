@@ -22,5 +22,381 @@
             {"label": "Grand Canyon Information", "url": "https://example.com/grand-canyon"},
             {"label": "Arizona Hiking Trails", "url": "https://example.com/arizona-hiking"}
         ]
+    },
+    "Arkansas": {
+        "text": "Arkansas offers natural beauty and a wealth of outdoor activities.",
+        "links": [
+            {"label": "Discover Arkansas", "url": "https://example.com/arkansas-discover"},
+            {"label": "Arkansas State Parks", "url": "https://example.com/arkansas-parks"},
+            {"label": "Outdoor Adventure in Arkansas", "url": "https://example.com/arkansas-outdoor"}
+        ]
+    },
+    "California": {
+        "text": "California is known for its beaches, mountains, and entertainment industry.",
+        "links": [
+            {"label": "Visit California", "url": "https://example.com/california-visit"},
+            {"label": "California Beaches", "url": "https://example.com/california-beaches"},
+            {"label": "California Wine Country", "url": "https://example.com/california-wine"}
+        ]
+    },
+    "Colorado": {
+        "text": "Colorado is renowned for its beautiful mountains and outdoor activities.",
+        "links": [
+            {"label": "Explore Colorado", "url": "https://example.com/colorado-explore"},
+            {"label": "Colorado Hiking Trails", "url": "https://example.com/colorado-hiking"},
+            {"label": "Colorado State Parks", "url": "https://example.com/colorado-parks"}
+        ]
+    },
+    "Connecticut": {
+        "text": "Connecticut boasts charming coastal towns and historical sites.",
+        "links": [
+            {"label": "Connecticut Tourism", "url": "https://example.com/connecticut-tourism"},
+            {"label": "Explore Connecticut History", "url": "https://example.com/connecticut-history"},
+            {"label": "Connecticut State Parks", "url": "https://example.com/connecticut-parks"}
+        ]
+    },
+    "Delaware": {
+        "text": "Delaware is the first state, known for its beaches and tax-free shopping.",
+        "links": [
+            {"label": "Visit Delaware", "url": "https://example.com/delaware-visit"},
+            {"label": "Delaware Beaches", "url": "https://example.com/delaware-beaches"},
+            {"label": "Delaware Shopping", "url": "https://example.com/delaware-shopping"}
+        ]
+    },
+    "Florida": {
+        "text": "Florida is famous for its beaches, theme parks, and sunny weather.",
+        "links": [
+            {"label": "Visit Florida", "url": "https://example.com/florida-visit"},
+            {"label": "Florida Beaches", "url": "https://example.com/florida-beaches"},
+            {"label": "Florida Theme Parks", "url": "https://example.com/florida-theme-parks"}
+        ]
+    },
+    "Georgia": {
+        "text": "Georgia offers a rich blend of history, culture, and natural beauty.",
+        "links": [
+            {"label": "Explore Georgia", "url": "https://example.com/georgia-explore"},
+            {"label": "Georgia State Parks", "url": "https://example.com/georgia-parks"},
+            {"label": "Visit Atlanta", "url": "https://example.com/atlanta-visit"}
+        ]
+    },
+    "Hawaii": {
+        "text": "Hawaii is known for its tropical landscapes, beaches, and volcanoes.",
+        "links": [
+            {"label": "Hawaii Tourism", "url": "https://example.com/hawaii-tourism"},
+            {"label": "Explore Hawaiian Islands", "url": "https://example.com/hawaii-islands"},
+            {"label": "Hawaii Beaches", "url": "https://example.com/hawaii-beaches"}
+        ]
+    },
+    "Idaho": {
+        "text": "Idaho is a destination for outdoor lovers with its mountains and rivers.",
+        "links": [
+            {"label": "Visit Idaho", "url": "https://example.com/idaho-visit"},
+            {"label": "Idaho Hiking Trails", "url": "https://example.com/idaho-hiking"},
+            {"label": "Idaho State Parks", "url": "https://example.com/idaho-parks"}
+        ]
+    },
+    "Illinois": {
+        "text": "Illinois is home to Chicago, world-class museums, and Lake Michigan.",
+        "links": [
+            {"label": "Illinois Tourism", "url": "https://example.com/illinois-tourism"},
+            {"label": "Explore Chicago", "url": "https://example.com/chicago-explore"},
+            {"label": "Illinois State Parks", "url": "https://example.com/illinois-parks"}
+        ]
+    },
+    "Indiana": {
+        "text": "Indiana offers diverse attractions from racing to scenic parks.",
+        "links": [
+            {"label": "Visit Indiana", "url": "https://example.com/indiana-visit"},
+            {"label": "Indianapolis 500 Info", "url": "https://example.com/indy500"},
+            {"label": "Indiana State Parks", "url": "https://example.com/indiana-parks"}
+        ]
+    },
+    "Iowa": {
+        "text": "Iowa features rolling plains, rivers, and historic landmarks.",
+        "links": [
+            {"label": "Explore Iowa", "url": "https://example.com/iowa-explore"},
+            {"label": "Iowa State Parks", "url": "https://example.com/iowa-parks"},
+            {"label": "History of Iowa", "url": "https://example.com/iowa-history"}
+        ]
+    },
+    "Kansas": {
+        "text": "Kansas is known for its prairies and rich agricultural heritage.",
+        "links": [
+            {"label": "Visit Kansas", "url": "https://example.com/kansas-visit"},
+            {"label": "Kansas State Parks", "url": "https://example.com/kansas-parks"},
+            {"label": "Kansas Agricultural Tours", "url": "https://example.com/kansas-agriculture"}
+        ]
+    },
+    "Kentucky": {
+        "text": "Kentucky is famous for bourbon, horse racing, and the Appalachian Mountains.",
+        "links": [
+            {"label": "Visit Kentucky", "url": "https://example.com/kentucky-visit"},
+            {"label": "Kentucky Bourbon Trail", "url": "https://example.com/bourbon-trail"},
+            {"label": "Kentucky Derby Info", "url": "https://example.com/kentucky-derby"}
+        ]
+    },
+    "Louisiana": {
+        "text": "Louisiana is known for its Cajun culture, music, and Mardi Gras.",
+        "links": [
+            {"label": "Visit Louisiana", "url": "https://example.com/louisiana-visit"},
+            {"label": "New Orleans Travel Guide", "url": "https://example.com/new-orleans"},
+            {"label": "Louisiana State Parks", "url": "https://example.com/louisiana-parks"}
+        ]
+    },
+    "Maine": {
+        "text": "Maine is known for its rugged coastline, lighthouses, and seafood.",
+        "links": [
+            {"label": "Visit Maine", "url": "https://example.com/maine-visit"},
+            {"label": "Maine Lighthouses", "url": "https://example.com/maine-lighthouses"},
+            {"label": "Maine State Parks", "url": "https://example.com/maine-parks"}
+        ]
+    },
+    "Maryland": {
+        "text": "Maryland offers a mix of coastal beauty and historical landmarks.",
+        "links": [
+            {"label": "Explore Maryland", "url": "https://example.com/maryland-explore"},
+            {"label": "Maryland Beaches", "url": "https://example.com/maryland-beaches"},
+            {"label": "History of Maryland", "url": "https://example.com/maryland-history"}
+        ]
+    },
+    "Massachusetts": {
+        "text": "Massachusetts is known for its colonial history and top universities.",
+        "links": [
+            {"label": "Visit Massachusetts", "url": "https://example.com/massachusetts-visit"},
+            {"label": "History of Boston", "url": "https://example.com/boston-history"},
+            {"label": "Massachusetts Beaches", "url": "https://example.com/massachusetts-beaches"}
+        ]
+    },
+    "Michigan": {
+        "text": "Michigan is home to the Great Lakes and scenic landscapes.",
+        "links": [
+            {"label": "Visit Michigan", "url": "https://example.com/michigan-visit"},
+            {"label": "Michigan Great Lakes", "url": "https://example.com/michigan-lakes"},
+            {"label": "Michigan State Parks", "url": "https://example.com/michigan-parks"}
+        ]
+    },
+    "Minnesota": {
+        "text": "Minnesota is the land of 10,000 lakes and beautiful forests.",
+        "links": [
+            {"label": "Explore Minnesota", "url": "https://example.com/minnesota-explore"},
+            {"label": "Minnesota Lakes", "url": "https://example.com/minnesota-lakes"},
+            {"label": "Minnesota State Parks", "url": "https://example.com/minnesota-parks"}
+        ]
+    },
+    "Mississippi": {
+        "text": "Mississippi offers rich musical heritage and Southern charm.",
+        "links": [
+            {"label": "Visit Mississippi", "url": "https://example.com/mississippi-visit"},
+            {"label": "Mississippi Blues Trail", "url": "https://example.com/blues-trail"},
+            {"label": "Mississippi State Parks", "url": "https://example.com/mississippi-parks"}
+        ]
+    },
+    "Missouri": {
+        "text": "Missouri features the Ozarks and the Gateway Arch in St. Louis.",
+        "links": [
+            {"label": "Visit Missouri", "url": "https://example.com/missouri-visit"},
+            {"label": "Gateway Arch", "url": "https://example.com/gateway-arch"},
+            {"label": "Missouri State Parks", "url": "https://example.com/missouri-parks"}
+        ]
+    },
+    "Montana": {
+        "text": "Montana is known for its vast open spaces and national parks.",
+        "links": [
+            {"label": "Explore Montana", "url": "https://example.com/montana-explore"},
+            {"label": "Yellowstone National Park", "url": "https://example.com/yellowstone"},
+            {"label": "Montana State Parks", "url": "https://example.com/montana-parks"}
+        ]
+    },
+    "Nebraska": {
+        "text": "Nebraska offers prairies, scenic byways, and a rich agricultural heritage.",
+        "links": [
+            {"label": "Visit Nebraska", "url": "https://example.com/nebraska-visit"},
+            {"label": "Nebraska Scenic Byways", "url": "https://example.com/nebraska-byways"},
+            {"label": "Nebraska State Parks", "url": "https://example.com/nebraska-parks"}
+        ]
+    },
+    "Nevada": {
+        "text": "Nevada is famous for Las Vegas and its vast deserts.",
+        "links": [
+            {"label": "Visit Nevada", "url": "https://example.com/nevada-visit"},
+            {"label": "Las Vegas Attractions", "url": "https://example.com/las-vegas"},
+            {"label": "Nevada State Parks", "url": "https://example.com/nevada-parks"}
+        ]
+    },
+    "New Hampshire": {
+        "text": "New Hampshire offers mountains, lakes, and beautiful foliage.",
+        "links": [
+            {"label": "Explore New Hampshire", "url": "https://example.com/nh-explore"},
+            {"label": "New Hampshire Foliage", "url": "https://example.com/nh-foliage"},
+            {"label": "New Hampshire State Parks", "url": "https://example.com/nh-parks"}
+        ]
+    },
+    "New Jersey": {
+        "text": "New Jersey is known for its beaches, boardwalks, and vibrant cities.",
+        "links": [
+            {"label": "Visit New Jersey", "url": "https://example.com/nj-visit"},
+            {"label": "New Jersey Beaches", "url": "https://example.com/nj-beaches"},
+            {"label": "New Jersey State Parks", "url": "https://example.com/nj-parks"}
+        ]
+    },
+    "New Mexico": {
+        "text": "New Mexico offers desert landscapes, cultural landmarks, and national parks.",
+        "links": [
+            {"label": "Explore New Mexico", "url": "https://example.com/nm-explore"},
+            {"label": "New Mexico Cultural Sites", "url": "https://example.com/nm-culture"},
+            {"label": "New Mexico State Parks", "url": "https://example.com/nm-parks"}
+        ]
+    },
+    "New York": {
+        "text": "New York is famous for its vibrant city and scenic landscapes.",
+        "links": [
+            {"label": "Visit New York City", "url": "https://example.com/nyc-visit"},
+            {"label": "Explore Upstate New York", "url": "https://example.com/upstate-ny"},
+            {"label": "New York State Parks", "url": "https://example.com/ny-parks"}
+        ]
+    },
+    "North Carolina": {
+        "text": "North Carolina offers mountains, beaches, and rich history.",
+        "links": [
+            {"label": "Visit North Carolina", "url": "https://example.com/nc-visit"},
+            {"label": "North Carolina Beaches", "url": "https://example.com/nc-beaches"},
+            {"label": "North Carolina State Parks", "url": "https://example.com/nc-parks"}
+        ]
+    },
+    "North Dakota": {
+        "text": "North Dakota is known for its Badlands, plains, and Native American history.",
+        "links": [
+            {"label": "Visit North Dakota", "url": "https://example.com/nd-visit"},
+            {"label": "North Dakota Badlands", "url": "https://example.com/nd-badlands"},
+            {"label": "North Dakota State Parks", "url": "https://example.com/nd-parks"}
+        ]
+    },
+    "Ohio": {
+        "text": "Ohio offers vibrant cities, scenic parks, and historic sites.",
+        "links": [
+            {"label": "Visit Ohio", "url": "https://example.com/ohio-visit"},
+            {"label": "Explore Cleveland", "url": "https://example.com/cleveland-explore"},
+            {"label": "Ohio State Parks", "url": "https://example.com/ohio-parks"}
+        ]
+    },
+    "Oklahoma": {
+        "text": "Oklahoma is known for its rich Native American history and diverse landscapes.",
+        "links": [
+            {"label": "Explore Oklahoma", "url": "https://example.com/oklahoma-explore"},
+            {"label": "Oklahoma State Parks", "url": "https://example.com/oklahoma-parks"},
+            {"label": "History of Oklahoma", "url": "https://example.com/oklahoma-history"}
+        ]
+    },
+    "Oregon": {
+        "text": "Oregon features stunning coastlines, forests, and Crater Lake.",
+        "links": [
+            {"label": "Visit Oregon", "url": "https://example.com/oregon-visit"},
+            {"label": "Crater Lake National Park", "url": "https://example.com/crater-lake"},
+            {"label": "Oregon Coastline", "url": "https://example.com/oregon-coast"}
+        ]
+    },
+    "Pennsylvania": {
+        "text": "Pennsylvania offers historical landmarks and vibrant cities.",
+        "links": [
+            {"label": "Explore Pennsylvania", "url": "https://example.com/pennsylvania-explore"},
+            {"label": "Philadelphia History", "url": "https://example.com/philadelphia-history"},
+            {"label": "Pennsylvania State Parks", "url": "https://example.com/pennsylvania-parks"}
+        ]
+    },
+    "Rhode Island": {
+        "text": "Rhode Island is known for its coastal towns, beaches, and mansions.",
+        "links": [
+            {"label": "Visit Rhode Island", "url": "https://example.com/ri-visit"},
+            {"label": "Rhode Island Beaches", "url": "https://example.com/ri-beaches"},
+            {"label": "Newport Mansions", "url": "https://example.com/ri-mansions"}
+        ]
+    },
+    "South Carolina": {
+        "text": "South Carolina offers beautiful beaches, historic sites, and Southern charm.",
+        "links": [
+            {"label": "Explore South Carolina", "url": "https://example.com/sc-explore"},
+            {"label": "South Carolina Beaches", "url": "https://example.com/sc-beaches"},
+            {"label": "South Carolina State Parks", "url": "https://example.com/sc-parks"}
+        ]
+    },
+    "South Dakota": {
+        "text": "South Dakota is famous for Mount Rushmore and the Badlands.",
+        "links": [
+            {"label": "Visit South Dakota", "url": "https://example.com/sd-visit"},
+            {"label": "Mount Rushmore Info", "url": "https://example.com/mount-rushmore"},
+            {"label": "South Dakota State Parks", "url": "https://example.com/sd-parks"}
+        ]
+    },
+    "Tennessee": {
+        "text": "Tennessee offers music, mountains, and vibrant cities like Nashville.",
+        "links": [
+            {"label": "Explore Tennessee", "url": "https://example.com/tn-explore"},
+            {"label": "Nashville Music Scene", "url": "https://example.com/nashville-music"},
+            {"label": "Great Smoky Mountains", "url": "https://example.com/smoky-mountains"}
+        ]
+    },
+    "Texas": {
+        "text": "Texas is known for its vast landscapes, BBQ, and the Alamo.",
+        "links": [
+            {"label": "Visit Texas", "url": "https://example.com/texas-visit"},
+            {"label": "The Alamo", "url": "https://example.com/alamo-history"},
+            {"label": "Texas State Parks", "url": "https://example.com/texas-parks"}
+        ]
+    },
+    "Utah": {
+        "text": "Utah offers national parks, ski resorts, and desert landscapes.",
+        "links": [
+            {"label": "Visit Utah", "url": "https://example.com/utah-visit"},
+            {"label": "Utah National Parks", "url": "https://example.com/utah-parks"},
+            {"label": "Ski Resorts in Utah", "url": "https://example.com/utah-ski"}
+        ]
+    },
+    "Vermont": {
+        "text": "Vermont is famous for its maple syrup, mountains, and fall foliage.",
+        "links": [
+            {"label": "Visit Vermont", "url": "https://example.com/vermont-visit"},
+            {"label": "Vermont Fall Foliage", "url": "https://example.com/vermont-fall"},
+            {"label": "Vermont Ski Resorts", "url": "https://example.com/vermont-ski"}
+        ]
+    },
+    "Virginia": {
+        "text": "Virginia is rich in colonial history, beaches, and the Blue Ridge Mountains.",
+        "links": [
+            {"label": "Explore Virginia", "url": "https://example.com/virginia-explore"},
+            {"label": "Virginia State Parks", "url": "https://example.com/virginia-parks"},
+            {"label": "Colonial Williamsburg", "url": "https://example.com/williamsburg"}
+        ]
+    },
+    "Washington": {
+        "text": "Washington is known for Seattle, mountains, and its beautiful coastline.",
+        "links": [
+            {"label": "Visit Washington", "url": "https://example.com/washington-visit"},
+            {"label": "Explore Seattle", "url": "https://example.com/seattle-explore"},
+            {"label": "Washington State Parks", "url": "https://example.com/washington-parks"}
+        ]
+    },
+    "West Virginia": {
+        "text": "West Virginia offers outdoor adventures in the Appalachian Mountains.",
+        "links": [
+            {"label": "Explore West Virginia", "url": "https://example.com/wv-explore"},
+            {"label": "West Virginia State Parks", "url": "https://example.com/wv-parks"},
+            {"label": "Appalachian Mountains Info", "url": "https://example.com/appalachian-mountains"}
+        ]
+    },
+    "Wisconsin": {
+        "text": "Wisconsin is known for its dairy farms, lakes, and Green Bay Packers.",
+        "links": [
+            {"label": "Visit Wisconsin", "url": "https://example.com/wisconsin-visit"},
+            {"label": "Wisconsin Lakes", "url": "https://example.com/wisconsin-lakes"},
+            {"label": "Wisconsin Dairy Tours", "url": "https://example.com/wisconsin-dairy"}
+        ]
+    },
+    "Wyoming": {
+        "text": "Wyoming is home to Yellowstone and Grand Teton National Parks.",
+        "links": [
+            {"label": "Explore Wyoming", "url": "https://example.com/wyoming-explore"},
+            {"label": "Yellowstone National Park", "url": "https://example.com/yellowstone"},
+            {"label": "Grand Teton National Park", "url": "https://example.com/grand-teton"}
+        ]
     }
 }
