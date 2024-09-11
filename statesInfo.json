@@ -1,0 +1,26 @@
+{
+    "Alabama": {
+        "text": "Welcome to Alabama, known for its rich cultural heritage.",
+        "links": [
+            {"label": "Official Tourism Website", "url": "https://example.com/alabama-tourism"},
+            {"label": "History of Alabama", "url": "https://example.com/alabama-history"},
+            {"label": "Alabama State Parks", "url": "https://example.com/alabama-parks"}
+        ]
+    },
+    "Alaska": {
+        "text": "Alaska is famous for its stunning landscapes and wildlife.",
+        "links": [
+            {"label": "Explore Alaska", "url": "https://example.com/alaska-explore"},
+            {"label": "Alaska Wildlife", "url": "https://example.com/alaska-wildlife"},
+            {"label": "Alaska State Parks", "url": "https://example.com/alaska-parks"}
+        ]
+    },
+    "Arizona": {
+        "text": "Explore the deserts and Grand Canyon in Arizona.",
+        "links": [
+            {"label": "Visit Arizona", "url": "https://example.com/arizona-visit"},
+            {"label": "Grand Canyon Information", "url": "https://example.com/grand-canyon"},
+            {"label": "Arizona Hiking Trails", "url": "https://example.com/arizona-hiking"}
+        ]
+    }
+}
